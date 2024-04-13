@@ -6,4 +6,4 @@ For the study, a heating system was simulated using Simulink, incorporating Gaus
 
 The findings indicate that the least-squares estimation technique successfully approximates the actual temperature with a high degree of accuracy, achieving results that closely match the true values.
 
-![alt text](https://github.com/ErickOF/MP6157-LeastSquaresFilterHeatingSystem/blob/main/figure/system.png?raw=true)
+![alt text](https://github.com/ErickOF/MP6157-LeastSquaresFilterHeatingSystem/blob/main/figures/heating_system.png)
